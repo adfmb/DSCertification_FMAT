@@ -12,6 +12,7 @@ Data Science Certification Course by Faculty of Mathematics Autonomous Universit
     - `-m` Use the given *text* as the commit *message*
 - `git push` Update remote refs along with associated objects
 
+
   > cd `<YOUR_WORKING_DIRECTORY_PATH>`
   >
 
@@ -23,6 +24,9 @@ Data Science Certification Course by Faculty of Mathematics Autonomous Universit
 
   > git checkout -b `<YOUR-USERNAME>`
   >
+
+
+- Go to `https://github.com/adfmb/DSCertification_FMAT.git/pull/new/<YOUR-USERNAME>` and create a new **Pull Request**
 
 ## Discuss & Setup our Work Environment Options
 
